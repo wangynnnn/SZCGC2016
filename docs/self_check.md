@@ -25,19 +25,20 @@
 
 - 学习 Command Line:
   - 要求：完成在线学习 [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) 和微课 [Conquering The Command Line](https://wap.umu.cn/model/groupShare?groupId=118501&sKey=f8cb459750c46e93a241a8995c84f0de&state=1470184326&from=timeline&isappinstalled=0) 掌握基本命令（5/5)
-  - 完成情况: 100%
-  - 问题:
+  - 完成情况:  完成
+  - 问题: N/A
 - 学习 git 和 Github
   - 要求: 完成[tryGit](https://try.github.io/levels/1/challenges/1) 和 [learn git](https://www.codecademy.com/learn/learn-git) (5/5)
-  - 完成情况: 100%
-  - 问题:
+  - 完成情况: 完成
+  - 问题: N/A
 - 完成 Coursera 第一周的课程
   - 要求: 重点完成 [Introduction To Git](https://www.coursera.org/learn/ruby-on-rails-intro/lecture/8F19A/introduction-to-git)。理解 Git 的工作原理，明细什么是本地仓库（local repo），什么是远程仓库（remote repo)。完成 github 注册和实战 git。 (5/5)
-  - 完成情况: 100%
-  - 问题:
+  - 完成情况: 完成
+  - 问题: N/A
 - 阅读 《Ruby 基础教程》1 到 6 章
   - 要求: 理解基本概念包括字符串，数组，散列，文件，IO，类，变量和控制语句。这是完成第一次编程挑战的基础知识（5/5）
-  - 完成情况: 100%
-  - 问题:
+  - 完成情况: 完成
+  - 问题: N/A 
 
-  #### 其他问题
+
+  #### 其他问题 N/A
